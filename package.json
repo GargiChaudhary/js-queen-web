@@ -3,7 +3,7 @@
   "version": "0.1.0",
   "private": true,
   "dependencies": {
-    "@emailjs/browser": "^3.10.0",
+    "@emailjs/browser": "^3.11.0",
     "bootstrap": "^5.2.3",
     "eslint-config-react-app": "^7.0.1",
     "moment": "^2.29.4",
